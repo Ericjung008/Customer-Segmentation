@@ -12,7 +12,7 @@ The objective of this project is to segment similiar customers into groups and h
 ## Metric 
 The Elbow Method was used as the evaluation metric for this project. The optimal number of clusters is chosen based on the elbow position.
 
-<img width="435" alt="Screen Shot 2020-07-26 at 10 34 00 PM" src="https://user-images.githubusercontent.com/51253177/88507022-41899f80-cf90-11ea-8a88-14453c60f010.png">
+<img width="447" alt="Screen Shot 2020-07-26 at 10 36 51 PM" src="https://user-images.githubusercontent.com/51253177/88507113-88779500-cf90-11ea-9ac6-015adbbfd38d.png">
 
 ## Approach
 The following steps were taken to complete the project:
