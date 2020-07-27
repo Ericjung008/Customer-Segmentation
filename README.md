@@ -2,7 +2,7 @@
 This is a project assigned to me during [theDevMasters](https://www.thedevmasters.com) bootcamp.<br> 
 
 ## Introduction
-Companies hope to retain regular customers and attract new customers. Loyalty programs, special offers, and price-based advertising are a few marketing strategies companies apply to increase their customer base. However, different marketing strategies must be taken based on the customer's purchasing behavior. Random advertisement is not only costly but also causes a decrease in potential revenue due to low response rate. With RFM analysis and clustering techniques, specific marketing strategies can be directed towards those who are interested.
+Companies hope to retain regular customers and attract new customers. Loyalty programs, special offers, and price-based advertising are a few marketing strategies companies apply to increase their customer base. However, different marketing strategies must be taken based on the customer's purchasing behavior. Random advertisement is not only costly but also causes a decrease in potential revenue due to a low response rate. With RFM analysis and clustering techniques, specific marketing strategies can be directed towards those who are interested.
 
 ## Objective
 
