@@ -7,7 +7,7 @@ Companies hope to retain regular customers and attract new customers. Loyalty pr
 ## Objective
 
 
-## Metrics 
+## Metric 
 
 
 ## Approach
@@ -33,7 +33,7 @@ Programming Language: Python 3.7.4<br>
 Libraries: Numpy, Pandas, Sqlite3, Datetime, Scipy, Matplotlib, Seaborn, Plotly, Squarify, IPython, Scikit-learn <br>
 
 ## Project Files
-[README](https://github.com/Ericjung008/Customer-Segmentation/blob/master/README.md)
-[Project](https://github.com/Ericjung008/Customer-Segmentation/blob/master/Customer%20Segmentation.ipynb)
-[SQL Database](https://github.com/Ericjung008/Customer-Segmentation/blob/master/segmentation.db)
-[Dataset](https://github.com/Ericjung008/Customer-Segmentation/blob/master/data.csv)
+[README](https://github.com/Ericjung008/Customer-Segmentation/blob/master/README.md)<br>
+[Project](https://github.com/Ericjung008/Customer-Segmentation/blob/master/Customer%20Segmentation.ipynb)<br>
+[SQL Database](https://github.com/Ericjung008/Customer-Segmentation/blob/master/segmentation.db)<br>
+[Dataset](https://github.com/Ericjung008/Customer-Segmentation/blob/master/data.csv)<br>
