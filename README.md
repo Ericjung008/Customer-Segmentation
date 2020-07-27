@@ -5,10 +5,14 @@ This is a project assigned to me during [theDevMasters](https://www.thedevmaster
 Companies hope to retain regular customers and attract new customers. Loyalty programs, special offers, and price-based advertising are a few marketing strategies companies apply to increase their customer base. However, different marketing strategies must be taken based on the customer's purchasing behavior. Random advertisement is not only costly but also causes a decrease in potential revenue due to a low response rate. With RFM analysis and clustering techniques, specific marketing strategies can be directed towards those who are interested.
 
 ## Objective
-The first step for this project t
+The objective of this project is to segment similiar customers into groups and highlight their characteristics by using two methods:
+* RFM Segmentation
+* KMeans Clustering
 
 ## Metric 
+The Elbow Method was used as the evaluation metric for this project. The optimal number of clusters is chosen when the intertia starts to decrease in a linear fashion. 
 
+<img width="478" alt="Screen Shot 2020-07-26 at 9 38 30 PM" src="https://user-images.githubusercontent.com/51253177/88504156-a7722900-cf88-11ea-9093-fa8dc329d866.png">
 
 ## Approach
 The following steps were taken to complete the project:
@@ -16,16 +20,12 @@ The following steps were taken to complete the project:
 2. Export dataset into SQL database.
 3. Import dataset from SQL database.
 4. Create an RFM table.
-5. Segment customers based on their segment scores.
+5. Group customers based on their segment scores.
 6. Transform and normalize RFM table.
 7. Find optimal number of clusters.
 8. Create a min-max table.
 9. Visualize clusters.
 10. Label clusters.
-
-
-## Model Selection
-
 
 ## Technologies
 Applications: Jupyter Notebook, MySQL<br>
