@@ -10,7 +10,7 @@ The objective of this project is to segment similiar customers into groups and h
 * KMeans Clustering
 
 ## Metric 
-The Elbow Method was used as the evaluation metric for this project. The optimal number of clusters is chosen when the intertia starts to decrease in a linear fashion. 
+The Elbow Method was used as the evaluation metric for this project. The optimal number of clusters is chosen based on the elbow position.
 
 <img width="478" alt="Screen Shot 2020-07-26 at 9 38 30 PM" src="https://user-images.githubusercontent.com/51253177/88504156-a7722900-cf88-11ea-9093-fa8dc329d866.png">
 
